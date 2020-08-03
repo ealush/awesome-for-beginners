@@ -156,6 +156,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [squirrelly](https://github.com/nebrelbug/squirrelly/labels/good%20first%20issue) _(label: good first issue)_ <br> Squirrelly is a lightweight template engine that supports helpers, filters, partials, and more.
 - [NativeScript](https://github.com/NativeScript/NativeScript/labels/good%20first%20issue) _(label: good first issue)_ <br> NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue) _(label: good first issue)_ <br> Build blazing fast, modern apps and websites with React.
+- [Vest](https://github.com/ealush/vest/labels/good%20first%20issue) _(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks.
 - [Vue.js](https://github.com/vuejs/vue/labels/good%20first%20issue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 - [md-page](https://github.com/oscarmorrison/md-page/labels/good%20first%20issue) _(label: good first issue)_ <br> Create a webpage with just markdown.
 - [Check It Out](https://github.com/jwu910/check-it-out/labels/good%20first%20issue) _(label: good first issue)_ <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
